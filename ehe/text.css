@@ -1,0 +1,80 @@
+h2  { text-align: center;
+color: crimson;
+
+
+}
+h5  { 
+color: cornflowerblue;
+text-align: center;
+
+
+
+}
+h1 { 
+
+    color: aqua;
+}
+h3 {
+color: aquamarine;
+
+
+}
+h4 {
+    color: coral;
+}
+td {
+text-align: center;
+
+
+}
+h6 {
+
+color: darkorchid;
+
+
+
+}
+label {
+    text-align: center;
+}
+li {
+text-align: left;
+
+
+}
+table {
+
+text-align: center;
+
+}
+
+body {
+
+background-image: url(1.jpg);
+background-position: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.a {
+
+    color: rgb(255, 0, 140);
+}
+.aaa {
+
+
+    color: rgb(0, 174, 255);
+}
+center a {
+text-decoration: none;
+    color: rgb(255, 145, 0);
+   
+}
+
+#rr {
+    background-image: url(98d7b3bd7fb7eb15ff62f2bc12280640.jpg);
+
+}
+.ll { color: rgb(0, 0, 0);
+
+
+}
